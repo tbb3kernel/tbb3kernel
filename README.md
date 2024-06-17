@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @tbb3kernel
+- 👀 I’m interested in software development, mathematics, data science~~~
+- 🌱 I’m currently learning rust programming language!
+- 💞️ I’m looking to collaborate on fun and exciting projects!
+- 📫 Email `metee.ying@gmail.com`
+- ⚡ Fun fact: My cat name is Rainy 🌧️
