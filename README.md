@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @tbb3kernel
+- 👋 Hi, I’m @tbb3kernel or Turbo or PRISMARCK (gamer name)
 - 👀 I’m interested in software development, mathematics, data science~~~
-- 🌱 I’m currently learning rust programming language!
-- 💞️ I’m looking to collaborate on fun and exciting projects!
-- 📫 Email `metee.ying@gmail.com`
+- 🌱 I’m currently working as junior data scientist @ Data Wealth (DW)!
+- 💞️ I’m looking to share knowledge about data science, maths, programming and RTS games!
+- 📫 Email `metee.ying@gmail.com` | `metee.yi@inet.co.th`
 - ⚡ Fun fact: My cat name is Rainy 🌧️
